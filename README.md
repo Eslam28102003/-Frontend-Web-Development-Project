@@ -1,31 +1,27 @@
-# -Frontend-Web-Development-Project
-# E-Commerce Platform Frontend
+# Client
 
-This project is the **frontend** of an e-commerce platform, built to provide a smooth and responsive user interface for browsing products, placing orders, and completing payments.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.1.
 
-## ✨ Features
+## Development server
 
-- 🛍️ **Product Listing & Details**  
-  Browse and view detailed information about products.
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-- 🧺 **Shopping Cart Functionality**  
-  Add, update, and remove items in the cart.
+## Code scaffolding
 
-- 📦 **Order Placement**  
-  Submit orders with dynamic calculation of totals.
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-- 💳 **Payment Integration**  
-  Supports integration with payment gateways (mock or real).
+## Build
 
-- 🔐 **User Authentication** *(if implemented)*  
-  Register, login, and maintain session.
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
-## 🛠 Technologies Used
+## Running unit tests
 
-- **React.js** (or Angular/Vue if applicable)
-- **JavaScript / TypeScript**
-- **Axios or Fetch API** (for communication with ASP.NET Web API backend)
-- **Bootstrap / Tailwind CSS** (or other CSS frameworks)
-- **React Router / Angular Router** (for navigation)
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
+## Running end-to-end tests
 
+Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+
+## Further help
+
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
